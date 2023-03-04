@@ -1,5 +1,1 @@
 
-<Version: 2.00>
-/yass/test update.contact https://raw.githubusercontent.com/lvchrpax/OddPlusUpdater/main/test%20update.contact
-<End of Version>
-
